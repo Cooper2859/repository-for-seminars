@@ -1,4 +1,5 @@
 ﻿// Задача 1
+
 int numA;
 int numB;
 
